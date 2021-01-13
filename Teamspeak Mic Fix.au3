@@ -5,7 +5,7 @@ WinMove("Sound","",118, 372)
 
 MouseClick("right",355, 494,1)
 Sleep(200)
-MouseClick("left",416, 632,1)
+MouseClick("left",416, 650,1)
 Sleep(200)
 
 WinWaitActive("Microphone Properties")
